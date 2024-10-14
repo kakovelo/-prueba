@@ -1,0 +1,2 @@
+C:\Users\Iñaki\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.AssemblyReference.cache
+C:\Users\Iñaki\source\repos\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
